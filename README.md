@@ -1,1 +1,1 @@
-# Itsfanyy-Sentiment-Analisis-Komentar-mengenai-Aplikasi-Netflix-Menggunakan-BERT
+Sentiment-Analisis-Komentar-mengenai-Aplikasi-Netflix-Menggunakan-BERT
